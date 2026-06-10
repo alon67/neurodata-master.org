@@ -1,0 +1,94 @@
+---
+import Base from '../layouts/Base.astro';
+
+const people = [
+  {
+    role: 'Project Coordinator',
+    name: 'Prof. Alon Korngreen',
+    link: '',
+    photo: '/images/people/alon-korngreen.png',
+    alt: 'Alon Korngreen',
+    bio: "Prof Alon Korngreen is the head of BIU’s Multidisciplinary Brain Research Center. He is an internationally renowned researcher with more than 30 years’ experience in neuronal computation, biophysics, and neurophysiology. His research fields include system neuroscience, neurodegenerative diseases, motor systems, and electrophysiology.",
+  },
+  {
+    role: 'Project Leader',
+    name: 'Prof. João Sanches',
+    link: 'http://users.isr.ist.utl.pt/~jmrs/',
+    photo: '/images/people/joao-sanches.png',
+    alt: 'Prof Sanches',
+    bio: 'Prof João Miguel Sanches, a professor in the Department of Bioengineering, co-ordinates the MSc in Biomedical Engineering and is a senior researcher and member of the board of directors of the Institute for Systems and Robotics at IST. His work in this field focuses on biological, medical, and brain image processing and statistical signal processing of physiological and behavioural data. Currently, Prof Sanches is developing new tools and methodological strategies to quantify and map molecular and morphometric pathologic cancer biomarkers.',
+  },
+  {
+    role: 'Project Leader',
+    name: 'Prof. Mario Cifrek',
+    link: 'https://www.fer.unizg.hr/en/mario.cifrek',
+    photo: '/images/people/mario-cifrek.png',
+    alt: 'Prof. Cifrek',
+    bio: 'Prof. Mario Cifrek is a tenured professor of Electrical Engineering with FER’s Department of Electronic Systems and Information Processing. His teaching and research interests are in biomedical engineering, emphasising the measurement and analysis of biomedical signals for research and clinical applications.',
+  },
+  {
+    role: 'Project Leader',
+    name: 'Assoc. Prof. Jelena Osmanović Barilar',
+    link: 'https://scholar.google.hr/citations?user=_N__uT0AAAAJ&hl=hr',
+    photo: '/images/people/jelena-osmanovic-barilar.jpg',
+    alt: 'Assoc. Prof. Jelena Osmanović Barilar',
+    bio: 'Jelena Osmanović Barilar is Associate Professor of Pharmacology in UZSM’s Department of Pharmacology. She teaches in the six-year Integrated (undergraduate and graduate) Programme of Medicine as well as the Doctoral (PhD) studies in Neuroscience and Biomedicine. In addition, Assoc. Prof. Jelena Osmanović Barilar is specialist in Clinical Pharmacology with toxicology and the co-ordinator of the Pharmacology course in the Integrated Medical Studies in English programme, which includes students from all over the world.',
+  },
+  {
+    role: 'Project Leader',
+    name: 'Prof. Mario Bonato',
+    link: 'http://ccnl.psy.unipd.it/',
+    photo: '/images/people/mario-bonato.jpg',
+    alt: 'Prof Bonato',
+    bio: 'Mario Bonato is associate professor and Director of the Master’s degree in Cognitive Neuroscience and Clinical Neuropsychology, University of Padova. He is a cognitive neuropsychologist with a specific expertise in visuo-spatial attention and multitasking performance, particularly in brain-damaged patients (e.g. hemispatial neglect after stroke). He has substantial (more than fifteen years) experience in neuropsychological assessment, and in the use of computer-based testing in brain-damaged, elderly patients. His expertise also extends to the study of numerical cognition (number/time-space interactions, fraction processing). Recently his research group has been developing several online tests and protocols for measuring cognitive performance from remote in healthy and pathological aging. Besides behavioural measures, he regularly uses lesion mapping techniques to perform brain-behaviour correlations.',
+    extra: [
+      { label: 'https://www.researchgate.net/profile/Mario-Bonato', href: 'https://www.researchgate.net/profile/Mario-Bonato' },
+      { label: 'https://orcid.org/0000-0002-2004-9341', href: 'https://orcid.org/0000-0002-2004-9341' },
+    ],
+  },
+  {
+    role: 'Project Leader',
+    name: 'Prof. Christiaan de Kock',
+    link: 'https://research.vu.nl/en/persons/cpj-de-kock',
+    photo: '/images/people/christiaan-de-kock.png',
+    alt: 'Prof. de Kock',
+    bio: 'Prof. Christiaan de Kock is a systems neuroscientist and associate professor in the Department of Integrative Neurophysiology. His research elucidates the link between structure and function of identified cell types of mammalian brains using cross-scale analysis of the function of specified cell types, ranging from single-cell and population in vivo electrophysiology and imaging to causality studies where interference using circuit manipulations leads to predictive manipulations of behaviour.',
+  },
+  {
+    role: 'Project Leader',
+    name: 'Prof. Tiina Parviainen',
+    link: 'https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/staff/parviainen-tiina',
+    photo: '/images/people/tiina-parviainen.png',
+    alt: 'Prof. Parviainen',
+    bio: 'Prof. Tiina Parviainen is an associate professor and director of the Center for Interdisciplinary Brain Research at JYU (CIBR). She has facilitated the use of MEG in various application areas from exercise physiology to therapeutic interaction, work well-being, and language development. She is an expert in using MEG neuroimaging to study human cognitive functions.',
+  },
+];
+---
+
+<Base title="The People | Graduate School" currentPath="/the-people">
+  <section class="page-section">
+    <div class="container">
+      {people.map((p) => (
+        <article class="person">
+          <img src={p.photo} alt={p.alt} loading="lazy" />
+          <div>
+            <p class="role">{p.role}</p>
+            <h2>{p.link ? <a href={p.link}>{p.name}</a> : p.name}</h2>
+            <p>{p.bio}</p>
+            {p.extra && (
+              <p>
+                For further detail:{' '}
+                {p.extra.map((e, i) => (
+                  <>
+                    <a href={e.href}>{e.label}</a>
+                    {i < p.extra.length - 1 && <br />}
+                  </>
+                ))}
+              </p>
+            )}
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,37 @@
+{
+  "page": "contact",
+  "title": "Contact | Graduate School",
+  "extractedAt": "2026-06-10T16:32:22.149Z",
+  "blocks": [
+    {
+      "type": "text",
+      "tag": "h1",
+      "text": "CONTACT US",
+      "textWithoutLinks": "CONTACT US"
+    },
+    {
+      "type": "text",
+      "tag": "h5",
+      "text": "NeuroData Coordination Office The Gonda Multidisciplinary Brain Research Center Bar-Ilan University Ramat-Gan, Israel 5290002 ISRAEL Phone : +972-3-5317755 E-Mail : neuro.data@biu.ac.il WhatsApp Chat",
+      "textWithoutLinks": "NeuroData Coordination Office The Gonda Multidisciplinary Brain Research Center Bar-Ilan University Ramat-Gan, Israel 5290002 ISRAEL Phone : +972-3-5317755 E-Mail :"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "neuro.data@biu.ac.il",
+      "href": "mailto:neuro.data@biu.ac.il"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "WhatsApp Chat",
+      "href": "https://wa.me/message/R3WHVUATR3QBI1"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e38a64_2c1231d4a4f54b34a96b1363e8eed63d~mv2.jpg/v1/fill/w_147,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e38a64_2c1231d4a4f54b34a96b1363e8eed63d~mv2.jpg",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "neurodata-master-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static site for www.neurodata-master.org (migrated from Wix)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "extract": "node scripts/extract-wix-content.mjs",
+    "validate:links": "node scripts/validate-links.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.1.1"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

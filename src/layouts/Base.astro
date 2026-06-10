@@ -1,0 +1,127 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  currentPath?: string;
+}
+
+const { title, description = 'NeuroData – Erasmus Mundus Joint Master Degree in Brain and Data Science', currentPath = '/' } = Astro.props;
+
+const nav = [
+  { label: 'Home', href: '/' },
+  { label: 'About', href: '/about' },
+  { label: 'Programme', href: '/programme' },
+  {
+    label: 'The Team',
+    children: [
+      { label: 'The Partners', href: '/the-partners' },
+      { label: 'The People', href: '/the-people' },
+    ],
+  },
+  {
+    label: 'Apply',
+    children: [
+      { label: 'Programme Costs', href: '/programme-costs' },
+      { label: 'Application Requirements', href: '/application-requirments' },
+      { label: 'Selection Process', href: '/selection-process' },
+      { label: 'Online Application', href: '/online-application' },
+    ],
+  },
+  { label: 'Contact', href: '/contact' },
+  { label: 'FAQ', href: '/faq' },
+  { label: 'Gallery', href: '/about' },
+  { label: 'Alumni', href: '/general-8' },
+];
+
+const canonical = new URL(currentPath, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL('/images/neurodata-logo.png', Astro.site).href} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-top">
+        <a class="eu-logo" href="https://erasmus-plus.ec.europa.eu" target="_blank" rel="noopener">
+          <img src="/images/eu-cofunded-logo.png" alt="Co-funded by the European Union (Erasmus+)" />
+        </a>
+        <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav">Menu</button>
+        <a class="site-logo" href="/">
+          <img src="/images/neurodata-logo.png" alt="NeuroData Logo" />
+        </a>
+      </div>
+      <nav class="site-nav" id="main-nav" aria-label="Main navigation">
+        <ul>
+          {nav.map((item) =>
+            item.children ? (
+              <li>
+                <span class="nav-label" tabindex="0">{item.label} ▾</span>
+                <ul class="dropdown">
+                  {item.children.map((c) => (
+                    <li>
+                      <a href={c.href} aria-current={currentPath === c.href ? 'page' : undefined}>{c.label}</a>
+                    </li>
+                  ))}
+                </ul>
+              </li>
+            ) : (
+              <li>
+                <a href={item.href} aria-current={currentPath === item.href ? 'page' : undefined}>{item.label}</a>
+              </li>
+            )
+          )}
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-social">
+        <a href="https://www.facebook.com/NeuroDataMaster/" target="_blank" rel="noopener"><img src="/images/icons/facebook.png" alt="Facebook" /></a>
+        <a href="https://twitter.com/NeuroDataMaster" target="_blank" rel="noopener"><img src="/images/icons/twitter.png" alt="Twitter" /></a>
+        <a href="https://www.linkedin.com/company/neurodatamaster/" target="_blank" rel="noopener"><img src="/images/icons/linkedin.png" alt="LinkedIn" /></a>
+      </div>
+      <div class="footer-partners">
+        <a href="https://gondabrain.biu.ac.il" target="_blank" rel="noopener"><img src="/images/partners/logo-bar-ilan.png" alt="Bar-Ilan University Logo" /></a>
+        <a href="https://vu.nl/en" target="_blank" rel="noopener"><img src="/images/partners/logo-vu-amsterdam.png" alt="Vrije Universiteit Amsterdam logo" /></a>
+        <a href="http://www.unizg.hr/homepage/" target="_blank" rel="noopener"><img src="/images/partners/logo-zagreb.png" alt="University of Zagreb Logo" /></a>
+        <a href="https://tecnico.ulisboa.pt/en/" target="_blank" rel="noopener"><img src="/images/partners/logo-tecnico-lisboa.png" alt="Instituto Superior Técnico Lisboa logo" /></a>
+        <a href="https://www.jyu.fi/en/frontpage" target="_blank" rel="noopener"><img src="/images/partners/logo-jyvaskyla.png" alt="University of Jyväskylä logo" /></a>
+        <a href="https://www.unipd.it/en/" target="_blank" rel="noopener"><img src="/images/partners/logo-padova.png" alt="University of Padova logo" /></a>
+      </div>
+      <p class="footer-contact">
+        For more information contact us at <a href="mailto:neuro.data@biu.ac.il">neuro.data@biu.ac.il</a>
+      </p>
+    </footer>
+
+    <script>
+      const toggle = document.querySelector('.nav-toggle');
+      const navEl = document.querySelector('.site-nav');
+      toggle?.addEventListener('click', () => {
+        const open = navEl?.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', String(!!open));
+      });
+    </script>
+  </body>
+</html>

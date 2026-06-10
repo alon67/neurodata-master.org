@@ -1,0 +1,1271 @@
+{
+  "page": "programme",
+  "title": "NeuroData | Graduate School",
+  "extractedAt": "2026-06-10T16:32:22.267Z",
+  "blocks": [
+    {
+      "type": "text",
+      "tag": "h1",
+      "text": "Programme Description",
+      "textWithoutLinks": "Programme Description"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "NeuroData, the innovative MSc in Brain and Data Science, is designed for students with diverse academic backgrounds. It equips them to meet the increasing demand in both scientific and societal spheres for the integration of advanced computational methods in solving complex neuroscience questions.",
+      "textWithoutLinks": "NeuroData, the innovative MSc in Brain and Data Science, is designed for students with diverse academic backgrounds. It equips them to meet the increasing demand in both scientific and societal spheres for the integration of advanced computational methods in solving complex neuroscience questions."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Each partner university within the consortium has a different role during the NeuroData program.",
+      "textWithoutLinks": "Each partner university within the consortium has a different role during the NeuroData program."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "At Bar-Ilan University (BIU) in Israel, all students spend their first year gaining a strong foundation in neuroscience and data science. They are personally hosted by various research groups at the Brain Center. BIU’s Multidisciplinary Brain Research Center, with its 20-year history of teaching a unique Brain Sciences curriculum, launched the MSc in Brain and Data Science in 2020 to meet the demand for neuroscience and data science specialists.",
+      "textWithoutLinks": "At Bar-Ilan University (BIU) in Israel, all students spend their first year gaining a strong foundation in neuroscience and data science. They are personally hosted by various research groups at the Brain Center. BIU’s Multidisciplinary Brain Research Center, with its 20-year history of teaching a unique Brain Sciences curriculum, launched the MSc in Brain and Data Science in 2020 to meet the demand for neuroscience and data science specialists."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Since its launch, this program has been highly successful and attracts many outstanding students. The curriculum of this unique program consists of core courses in neuroscience and data science, which provide students from interdisciplinary backgrounds with a solid foundation in both fields.",
+      "textWithoutLinks": "Since its launch, this program has been highly successful and attracts many outstanding students. The curriculum of this unique program consists of core courses in neuroscience and data science, which provide students from interdisciplinary backgrounds with a solid foundation in both fields."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "The first-year curriculum of NeuroData: MSc in Brain and Data Science is the foundation upon which students build knowledge, culminating in the Summer School at the University of Zagreb.",
+      "textWithoutLinks": "The first-year curriculum of NeuroData: MSc in Brain and Data Science is the foundation upon which students build knowledge, culminating in the Summer School at the University of Zagreb."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "First-Year Courses at Bar-Ilan University.",
+      "textWithoutLinks": "First-Year Courses at Bar-Ilan University."
+    },
+    {
+      "type": "text",
+      "tag": "h6",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Because students join from diverse academic backgrounds, some may lack required preparation. All incoming students must complete placement exams in mathematics, Python, and neuroscience before the program begins. Students who do not pass will be assigned prerequisite courses in these areas during their first semester at BIU, to be taken alongside the standard NeuroData curriculum.",
+      "textWithoutLinks": "Because students join from diverse academic backgrounds, some may lack required preparation. All incoming students must complete placement exams in mathematics, Python, and neuroscience before the program begins. Students who do not pass will be assigned prerequisite courses in these areas during their first semester at BIU, to be taken alongside the standard NeuroData curriculum."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Mandatory courses",
+      "textWithoutLinks": "Mandatory courses"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Machine learning and neural networks for neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Machine learning and neural networks for neuroscience",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_c7673bf485994beabf03217c67841da8.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Signal and Data analysis in Neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Signal and Data analysis in Neuroscience",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_22b18a3c2e8b48e39364727788b1c84c.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Data Science and Advanced Python concepts workshop",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Data Science and Advanced Python concepts workshop",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_97571470b58c490b8ec726d9e75a2ad3.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Data Science Applications in Neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Data Science Applications in Neuroscience",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_69eee1851eed4708889e083fb148ef41.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Biological Module (pick one)",
+      "textWithoutLinks": "Biological Module (pick one)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Introduction to cellular and systems neurophysiology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Introduction to cellular and systems neurophysiology",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_a8d4239f9bf3422b8b380100bafba8f4.pdf"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Advanced topics in system Neurophysiology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Advanced topics in system Neurophysiology",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_ea0d245a10f44d38a43993f6de2bde5e.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Synaptic Neurochemistry",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Synaptic Neurochemistry",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_49c7be6bf74c4295a6985ea3ccb10b10.pdf"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Cognitive module (pick one)",
+      "textWithoutLinks": "Cognitive module (pick one)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Brain Imaging of Language Functions",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Brain Imaging of Language Functions",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_8598c068a44c4c2b939f79278f193e3e.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Brain and Cognition Research in the 21 Century",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Brain and Cognition Research in the 21 Century",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_0ff221a721a04d5bb85c42a53fd0e76a.pdf?index=true"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Research Internship During the first year students will complete a research project in one of the Gonda Brain Center labs. The preliminary results of this project will be presented at the Annual Gonda Conference in March. During the summer school, students will present the results of the first-year internship. This internship is not mandatory and does not carry academic ECTS.",
+      "textWithoutLinks": "Research Internship During the first year students will complete a research project in one of the Gonda Brain Center labs. The preliminary results of this project will be presented at the Annual Gonda Conference in March. During the summer school, students will present the results of the first-year internship. This internship is not mandatory and does not carry academic ECTS."
+    },
+    {
+      "type": "text",
+      "tag": "h5",
+      "text": "Summer School",
+      "textWithoutLinks": "Summer School"
+    },
+    {
+      "type": "text",
+      "tag": "h6",
+      "text": "School of Medicine and Faculty of Electrical Engineering and Computing, University of Zagreb, Croatia",
+      "textWithoutLinks": "School of Medicine and Faculty of Electrical Engineering and Computing, University of Zagreb, Croatia"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "All students will participate in a compulsory joint summer school at the University of Zagreb (UNIZG), which will be held during the summer between the first and second year. This programme is designed in an innovative way that combines an introduction to the theoretical principles of neuroscience and data science with hands-on learning.",
+      "textWithoutLinks": "All students will participate in a compulsory joint summer school at the University of Zagreb (UNIZG), which will be held during the summer between the first and second year. This programme is designed in an innovative way that combines an introduction to the theoretical principles of neuroscience and data science with hands-on learning."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "This combined approach enables students to engage actively in the programme and stimulates faster and more productive adoption of the required neuroscience and data science skill-set in a motivating environment. Students will be introduced to all steps required to conduct successfully behavioural experiments in animal models using the tools they will have developed, with micro-controllers and hardware-and-software-design skills that they will adopt throughout the course.",
+      "textWithoutLinks": "This combined approach enables students to engage actively in the programme and stimulates faster and more productive adoption of the required neuroscience and data science skill-set in a motivating environment. Students will be introduced to all steps required to conduct successfully behavioural experiments in animal models using the tools they will have developed, with micro-controllers and hardware-and-software-design skills that they will adopt throughout the course."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "An interdisciplinary approach and the encouragement of independent thinking in solving tasks will give students a theoretical foundation for future projects in this field. Guest lectures from leading neuroscientists and data scientists will provide an overview of the field. Mentoring sessions with industry representatives, which will take place during the summer school, will provide students with networking opportunities. A graphical abstract of the summer course is displayed below and the provisional Sylabus can be downloaded here.",
+      "textWithoutLinks": "An interdisciplinary approach and the encouragement of independent thinking in solving tasks will give students a theoretical foundation for future projects in this field. Guest lectures from leading neuroscientists and data scientists will provide an overview of the field. Mentoring sessions with industry representatives, which will take place during the summer school, will provide students with networking opportunities. A graphical abstract of the summer course is displayed below and the provisional Sylabus can be downloaded ."
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "here",
+      "href": "https://www.neurodata-master.org/_files/ugd/e38a64_f0fc2e86f7664758b0e6565bf9fcc22e.pdf"
+    },
+    {
+      "type": "text",
+      "tag": "h5",
+      "text": "Biomedical Engineering",
+      "textWithoutLinks": "Biomedical Engineering"
+    },
+    {
+      "type": "text",
+      "tag": "h6",
+      "text": "Department of Bioengineering, Instituto Superior Técnico University of Lisbon, Portugal",
+      "textWithoutLinks": "Department of Bioengineering, Instituto Superior Técnico University of Lisbon, Portugal"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second-year studies at the Instituto Superior Técnico (IST) focus on the biomedical and data-science engineering aspects of neuroscience as well as biomedical and data-science engineering applications for brain research and technologies. Students will be able to expand their expertise in biomedical engineering using tools to analyse and solve critical challenges in fundamental medicine as well as those faced by clinics and hospitals while applying advanced technologies to the complex problems of health systems.",
+      "textWithoutLinks": "Second-year studies at the Instituto Superior Técnico (IST) focus on the biomedical and data-science engineering aspects of neuroscience as well as biomedical and data-science engineering applications for brain research and technologies. Students will be able to expand their expertise in biomedical engineering using tools to analyse and solve critical challenges in fundamental medicine as well as those faced by clinics and hospitals while applying advanced technologies to the complex problems of health systems."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "The approaches involve biological and biomedical imaging, ranging from cell microscopy to ultrasound and magnetic resonance imaging as well as physiological signals such as the electroencephalogram and electrocardiogram. A particular emphasis is on studying human brain function and neuro-engineering with applications in sleep, cognition, neurofeedback, and pathologies such as epilepsy, dementia, cerebrovascular, and psychiatric diseases.",
+      "textWithoutLinks": "The approaches involve biological and biomedical imaging, ranging from cell microscopy to ultrasound and magnetic resonance imaging as well as physiological signals such as the electroencephalogram and electrocardiogram. A particular emphasis is on studying human brain function and neuro-engineering with applications in sleep, cognition, neurofeedback, and pathologies such as epilepsy, dementia, cerebrovascular, and psychiatric diseases."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second year courses at IST",
+      "textWithoutLinks": "Second year courses at IST"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "A student should pick 3-4 courses from the following:",
+      "textWithoutLinks": "A student should pick 3-4 courses from the following:"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Biomedical imaging",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Biomedical imaging",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490070&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6HJAJtSuBqxSiH7iTo713uIrOmbmb%2BZ6Cs0aqpVWj8M%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Instrumentation and acquisition of Biosignals",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Instrumentation and acquisition of Biosignals",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490072&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0DPvdRgfdkwmnnvA%2FPAIcVIqCJKd8jrk9Tutsp9uRoo%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Machine Learning in Bioengineering",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Machine Learning in Bioengineering",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490073&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QS7aTEBkZbrAedw%2B9irW%2BulkiahMYmY7NnwXoFCCOzA%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuroimaging",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuroimaging",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490074&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b8GlrLiFd2DWTtJO0DRfMcbTQozRQ4T%2BT96xaeK20VM%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Image Processing and Vision",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Image Processing and Vision",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490075&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=uJmT2ZtMLia2LoTqiNeTL%2BIUbqXwkCWKOzfoad86x84%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Machine Learning",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Machine Learning",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490078&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Dcqd4cCm4UBUoL4DXoymFq8rTwgqObUe3moBcE3IgOE%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Mathematical Models in Biomedicine",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Mathematical Models in Biomedicine",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490076&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OVbNOKFoMVQmzCW%2BV5gsk5Xw7H63u0j%2FlubgLJDNtnk%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuromodulation",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuromodulation",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490079&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=O%2FzQGHcuf3IG9NYjizqz8Q6BH7aj1MIHkM9pzk6dzbU%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Principles of human-machine interfaces",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Principles of human-machine interfaces",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490080&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iVOjF1Ia%2BaSy72%2BkpBA%2BnlKuql3QcVXn5y2oUYRGAEw%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Biosignals and biomedical image processing",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Biosignals and biomedical image processing",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490081&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wX4XTqp9zBzQidSd5sGlg11UT%2FId0hD3hrUB8OZ%2BuQk%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Advance imaging techniques",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Advance imaging techniques",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmebiom21%2Fdisciplina-curricular%2F845953938490082&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YyadbZ9QSNbd9ntsNu%2FwSlDQESj%2F%2F%2FMIqPpP0h8jqfM%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Medical and Biological Image Processing (it will not be offered next year)",
+      "textWithoutLinks": "Medical and Biological Image Processing (it will not be offered next year)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Additional electives (Master in Data Science and Engineering)",
+      "textWithoutLinks": "Additional electives ()"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Master in Data Science and Engineering",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmecd%2Fcurriculo&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=WRS2iHUGt7BG4JfNYTOqrG4vPTgHrLJn8tDu3yjj2cQ%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Artificial Intelligence and Decision Systems",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Artificial Intelligence and Decision Systems",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmecd%2Fdisciplina-curricular%2F1127428915200151&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=NxHZe3zobNQXzcDvhQX8ifT3qiP9FhCynzVzJhswnVE%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Applied Computational Intelligence",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Applied Computational Intelligence",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmecd%2Fdisciplina-curricular%2F1127428915200168&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KC8fcTWEszJEhaFO98atpreHE8ZVKCi9nC0pVbVDrpk%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Data Analysis and Integration",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Data Analysis and Integration",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmecd%2Fdisciplina-curricular%2F1127428915200135&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=N4nXa3vqo2NYgaDQIPJNCCcxpzasCfFVpuEkCBMBD30%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Statistical Methods in Data Mining",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Statistical Methods in Data Mining",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmecd%2Fdisciplina-curricular%2F1127428915200164&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=i1oVzTLRtDjhH5jN04DOQVLx6m3MsIzGa42z7o%2BVO4g%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Information Visualization",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Information Visualization",
+      "href": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2Fcursos%2Fmecd%2Fdisciplina-curricular%2F1127428915200131&data=05%7C01%7CInna.Sukhotinsky%40biu.ac.il%7Cc204ca7256a049bc5dec08dadebb625c%7C61234e145b874b67ac198feaa8ba8f12%7C1%7C0%7C638067193668492041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rOkFX6CeNBLDO6A0O6BiJh434tnyL73QoSOnYUjfy1E%3D&reserved=0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Project (thesis preparation)",
+      "textWithoutLinks": "Project (thesis preparation)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Thesis",
+      "textWithoutLinks": "Thesis"
+    },
+    {
+      "type": "text",
+      "tag": "h5",
+      "text": "Cognitive Neuroscience and Clinical Neuropsychology with Data Processing",
+      "textWithoutLinks": "Cognitive Neuroscience and Clinical Neuropsychology with Data Processing"
+    },
+    {
+      "type": "text",
+      "tag": "h6",
+      "text": "Department of General Psychology, University of Padua, Italy",
+      "textWithoutLinks": "Department of General Psychology, University of Padua, Italy"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second-year studies at the University of Padua (UniPD) focus on cognitive approaches to neuroscience, which try to capitalise on the data analysis approach for improved understanding of the neurofunctional correlates of the human mind. Activities will be based on data science approaches relevant to clinical, theoretical, and cognitive neuroscience and neuropsychology.",
+      "textWithoutLinks": "Second-year studies at the University of Padua (UniPD) focus on cognitive approaches to neuroscience, which try to capitalise on the data analysis approach for improved understanding of the neurofunctional correlates of the human mind. Activities will be based on data science approaches relevant to clinical, theoretical, and cognitive neuroscience and neuropsychology."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "A particular emphasis is on understanding the human brain and mental functioning, with applications in basic research and diagnosis, cognitive or psychological rehabilitation and cognitive enhancements. In short, students will become experts in both standard and pathological aspects of the functioning of the human mind.",
+      "textWithoutLinks": "A particular emphasis is on understanding the human brain and mental functioning, with applications in basic research and diagnosis, cognitive or psychological rehabilitation and cognitive enhancements. In short, students will become experts in both standard and pathological aspects of the functioning of the human mind."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second year courses at UniPD",
+      "textWithoutLinks": "Second year courses at UniPD"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Optional course units (student should choose 1 of the following course units):",
+      "textWithoutLinks": "Optional course units (student should choose 1 of the following course units):"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Human electrophysiology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Human electrophysiology",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSP4064782/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Cognitive neuroscience of action",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Cognitive neuroscience of action",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSO2044182/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuropsychological assessment and rehabilitation",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuropsychological assessment and rehabilitation",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSQ0091399/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Optional course units (student should choose 1 of the following course units)",
+      "textWithoutLinks": "Optional course units (student should choose 1 of the following course units)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Clinical neuropsychology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Clinical neuropsychology",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1089/000ZZ/PSO2044204/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Affective neuroscience and psychopathology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Affective neuroscience and psychopathology",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1089/000ZZ/PSN1032285/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Optional course units (student should choose 1 of the following course units)",
+      "textWithoutLinks": "Optional course units (student should choose 1 of the following course units)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Advanced social psychology and social neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Advanced social psychology and social neuroscience",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSO2044195/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "New concepts in developmental psychology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "New concepts in developmental psychology",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSQ0091279/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Optional course units (student should choose 1 of the following course units)",
+      "textWithoutLinks": "Optional course units (student should choose 1 of the following course units)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neural networks and deep learning",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neural networks and deep learning",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSQ0091401/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Machine learning for brain and cognition",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Machine learning for brain and cognition",
+      "href": "https://en.didattica.unipd.it/off/2021/LM/PS/PS1932/000ZZ/PSQ1096518/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "New trends in neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "New trends in neuroscience",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSP5073004/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "New technologies and human behaviour",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "New technologies and human behaviour",
+      "href": "https://en.didattica.unipd.it/off/2021/LM/PS/PS1932/000ZZ/PSQ1096519/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Animal models in neurobiology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Animal models in neurobiology",
+      "href": "https://en.didattica.unipd.it/off/2022/LM/PS/PS1932/000ZZ/PSQ1096499/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Ethics and deontology in psychology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Ethics and deontology in psychology",
+      "href": "https://en.didattica.unipd.it/off/2024/LM/PS/PS1932/000ZZ/PSQ3103206/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neurology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neurology",
+      "href": "https://en.didattica.unipd.it/off/2023/LM/PS/PS1932/000ZZ/PSP4065303/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neurosurgery",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neurosurgery",
+      "href": "https://en.didattica.unipd.it/off/2023/LM/PS/PS1932/000ZZ/PSP4065306/N0"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Internship",
+      "textWithoutLinks": "Internship"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Thesis",
+      "textWithoutLinks": "Thesis"
+    },
+    {
+      "type": "text",
+      "tag": "h5",
+      "text": "Systems Neuroscience and Data Processing",
+      "textWithoutLinks": "Systems Neuroscience and Data Processing"
+    },
+    {
+      "type": "text",
+      "tag": "h6",
+      "text": "Faculty of Science and Vrije University Medical Center Vrije Universiteit Amsterdam, The Netherlands",
+      "textWithoutLinks": "Faculty of Science and Vrije University Medical Center Vrije Universiteit Amsterdam, The Netherlands"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second-year studies at Vrije Universiteit Amsterdam (VUA) focus on fundamental, behavioural, and clinical neuroscience research. At VUA, students will expand their expertise in system neuroscience. The topics covered include Anatomy and Neurosciences, Clinical Neurophysiology, Neurology, Pathology, Physics and Medical Technology, Psychiatry, and Radiology. Clinical and translational research at the VUA is organised in world-renowned research centres where many of these departments collaborate.",
+      "textWithoutLinks": "Second-year studies at Vrije Universiteit Amsterdam (VUA) focus on fundamental, behavioural, and clinical neuroscience research. At VUA, students will expand their expertise in system neuroscience. The topics covered include Anatomy and Neurosciences, Clinical Neurophysiology, Neurology, Pathology, Physics and Medical Technology, Psychiatry, and Radiology. Clinical and translational research at the VUA is organised in world-renowned research centres where many of these departments collaborate."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Examples of these interdisciplinary collaborations include the Alzheimer's Centre, the Multiple Sclerosis (MS) Centre, and the VU medical center Imaging Centre. In short, students will be working in an interdisciplinary way, integrating information from genes and proteins to synapses and from networks to complex brain function and dysfunction. When the students graduate, they will have a clear understanding of critical scientific approaches and an awareness of the ethical and social dilemmas within the neurosciences sector.",
+      "textWithoutLinks": "Examples of these interdisciplinary collaborations include the Alzheimer's Centre, the Multiple Sclerosis (MS) Centre, and the VU medical center Imaging Centre. In short, students will be working in an interdisciplinary way, integrating information from genes and proteins to synapses and from networks to complex brain function and dysfunction. When the students graduate, they will have a clear understanding of critical scientific approaches and an awareness of the ethical and social dilemmas within the neurosciences sector."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second year courses at VUA",
+      "textWithoutLinks": "Second year courses at VUA"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Mandatory courses:",
+      "textWithoutLinks": "Mandatory courses:"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neurophilosophy and Ethics",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neurophilosophy and Ethics",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1018#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Career and Academic Skills Portfolio",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Career and Academic Skills Portfolio",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1250#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Thesis (Internship II)",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Thesis (Internship II)",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1269#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Elective courses (4 from the list):",
+      "textWithoutLinks": "Elective courses (4 from the list):"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "A combination of 2 Electives should be selected within the same track in period 1 (P1) and period 2 (P2)",
+      "textWithoutLinks": "A combination of 2 Electives should be selected within the same track in period 1 (P1) and period 2 (P2)"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Track Fundamental Neurosciences",
+      "textWithoutLinks": "Track Fundamental Neurosciences"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Cellular Models for Brain Disorders P1",
+      "textWithoutLinks": "P1"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Cellular Models for Brain Disorders",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1218#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Live Cell Imaging P1",
+      "textWithoutLinks": "P1"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Live Cell Imaging",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_470726#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuron-Glia Interaction P1",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuron-Glia Interaction P1",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1217#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Developmental Neurobiology of the Vertebrate Brain P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Developmental Neurobiology of the Vertebrate Brain",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_470713#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Methods in Behavioral Neurosciences P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Methods in Behavioral Neurosciences",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_470728#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuronal Networks In Vivo P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuronal Networks In Vivo",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1001#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "System Neuroscience P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "System Neuroscience",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_470712#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Track Clinical Neurosciences",
+      "textWithoutLinks": "Track Clinical Neurosciences"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuro- and Psychopharmacology P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuro- and Psychopharmacology",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_470718#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Rhythms of the Brain P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Rhythms of the Brain",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_1003#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Experimental and Clinical Neuroendocrinology P2",
+      "textWithoutLinks": "P2"
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Experimental and Clinical Neuroendocrinology",
+      "href": "https://studiegids.vu.nl/en/Master/2022-2023/neurosciences-research/AM_470700#/"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "TOTAL (4 Electives, CASP, Neurophil&Ethics, thesis)",
+      "textWithoutLinks": "TOTAL (4 Electives, CASP, Neurophil&Ethics, thesis)"
+    },
+    {
+      "type": "text",
+      "tag": "h5",
+      "text": "Cognitive Neuroscience and Neuroimaging with Data Processing",
+      "textWithoutLinks": "Cognitive Neuroscience and Neuroimaging with Data Processing"
+    },
+    {
+      "type": "text",
+      "tag": "h6",
+      "text": "Faculty of Education and Psychology University of Jyväskylä, Finland",
+      "textWithoutLinks": "Faculty of Education and Psychology University of Jyväskylä, Finland"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second-year studies at the University of Jyväskylä (JYU) will focus on neuroimaging and data processing in developmental, neurolinguistic, and cognitive neuroscience. The curriculum provides advanced knowledge in cognitive neuroscience, neuroimaging techniques, and data science-orientated data analysis and visualisation in this field.",
+      "textWithoutLinks": "Second-year studies at the University of Jyväskylä (JYU) will focus on neuroimaging and data processing in developmental, neurolinguistic, and cognitive neuroscience. The curriculum provides advanced knowledge in cognitive neuroscience, neuroimaging techniques, and data science-orientated data analysis and visualisation in this field."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "JYU’s pedagogical approach is based on student-centred methods and multidisciplinary phenomenon-based teaching and learning. JYU has a long history in cognitive and behavioural neuroscience research and computational and data sciences. Moreover, JYU brings an added value of solid experience and emphasis on imaging technology, instrumentation, and development.",
+      "textWithoutLinks": "JYU’s pedagogical approach is based on student-centred methods and multidisciplinary phenomenon-based teaching and learning. JYU has a long history in cognitive and behavioural neuroscience research and computational and data sciences. Moreover, JYU brings an added value of solid experience and emphasis on imaging technology, instrumentation, and development."
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Second year courses at JYU",
+      "textWithoutLinks": "Second year courses at JYU"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "​",
+      "textWithoutLinks": "​"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Select 20 ECTS from these courses",
+      "textWithoutLinks": "Select 20 ECTS from these courses"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Basics of signal processing",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Basics of signal processing",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-55325459-6425-4609-a8c6-441b6b5a541d/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Deep learning for cognitive computing",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Deep learning for cognitive computing",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-e3d65a70-7979-49ca-9f92-b33c31d660c0/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Deep learning for cognitive computing for developers",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Deep learning for cognitive computing for developers",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-c516af08-695f-473e-9c81-a25d6f5366c1/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Collective Intelligence and agent technology",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Collective Intelligence and agent technology",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-2fae6395-6916-4ff1-a069-d3aaa7c8e43e/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "SOA and cloud computing",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "SOA and cloud computing",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-f94436b3-1c6d-4c30-86e8-b2846ae20a81/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Communication Systems and Services",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Communication Systems and Services",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-f9f3b06b-14ac-46fd-9a8e-8724c323ada1/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Anatomy and physiology of the central and autonomic nervous system",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Anatomy and physiology of the central and autonomic nervous system",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-e2070808-fcfa-4ba3-8d89-018795c37086/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Experimental methods in neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Experimental methods in neuroscience",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-48cf3ce8-d2ee-4ca8-b842-6df6f66921d2/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Basics of brain imaging",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Basics of brain imaging",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-defd55f9-12d8-4c83-87b2-8797dd0456c7/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neuroscience practicum",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neuroscience practicum",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-71859d03-d55f-4ee3-8a19-266b4531a208/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Current issues in cognitive neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Current issues in cognitive neuroscience",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-fcbf9217-390b-4456-8c96-2a6e1ccc1b68/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Neurobiology of learning and memory",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Neurobiology of learning and memory",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-e7b723bc-f3e6-464c-93ec-7a51dea5647b/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Developmental language-related disorders",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Developmental language-related disorders",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-6e55eccb-3682-41d4-b024-1fd8a4d0b2a0/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Motor control and human neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Motor control and human neuroscience",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-5ffd0912-8c21-484d-aab5-27e848b251d3/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Analysis methods for Cognitive Neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Analysis methods for Cognitive Neuroscience",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-253b721e-1a54-4574-8655-223da026a415/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Brain development",
+      "textWithoutLinks": "Brain development"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Current applications of cognitive neuroscience",
+      "textWithoutLinks": ""
+    },
+    {
+      "type": "link",
+      "tag": "a",
+      "text": "Current applications of cognitive neuroscience",
+      "href": "https://sisu.jyu.fi/student/courseunit/otm-74a7cb63-71fa-4d37-9004-3f960a5b5e4d/brochure"
+    },
+    {
+      "type": "text",
+      "tag": "p",
+      "text": "Thesis",
+      "textWithoutLinks": "Thesis"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e38a64_f4d2d497e431422bac1109eded49e354~mv2.jpg/v1/fill/w_147,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e38a64_f4d2d497e431422bac1109eded49e354~mv2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e38a64_c7206d93324541259532f5f56852cc9c~mv2.png/v1/fill/w_663,h_454,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Summer%20School%20Program.png",
+      "alt": "Summer School Program"
+    }
+  ]
+}
