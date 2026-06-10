@@ -2,22 +2,119 @@
   "source": "https://www.neurodata-master.org",
   "generatedAt": "2026-06-10",
   "pages": [
-    { "sourceUrl": "https://www.neurodata-master.org/", "targetPath": "/", "title": "NeuroData | Graduate School in Brain and Data Science", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/about", "targetPath": "/about", "title": "NeuroData | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/programme", "targetPath": "/programme", "title": "NeuroData | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/the-partners", "targetPath": "/the-partners", "title": "The Partners | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/the-people", "targetPath": "/the-people", "title": "The People | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/programme-costs", "targetPath": "/programme-costs", "title": "NeuroData | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/application-requirments", "targetPath": "/application-requirments", "title": "Application Requirements | Graduate School", "language": "en", "priority": "high", "status": "migrated (original Wix slug spelling kept intentionally)" },
-    { "sourceUrl": "https://www.neurodata-master.org/selection-process", "targetPath": "/selection-process", "title": "Selection Process | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/online-application", "targetPath": "/online-application", "title": "Online Application | Graduate School", "language": "en", "priority": "high", "status": "migrated; Online Application button links to external registration system at admin.neurodata-master.org (not migrated, per requirements)" },
-    { "sourceUrl": "https://www.neurodata-master.org/contact", "targetPath": "/contact", "title": "Contact | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/faq", "targetPath": "/faq", "title": "Faq | Graduate School", "language": "en", "priority": "high", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/general-8", "targetPath": "/general-8", "title": "Alumni | NeuroData", "language": "en", "priority": "medium", "status": "migrated" },
-    { "sourceUrl": "https://www.neurodata-master.org/blank-1", "targetPath": "/blank-1 -> /about", "title": "Gallery (nav label)", "language": "en", "priority": "low", "status": "redirect; the Wix site 301-redirects /blank-1 to /about, reproduced via Astro redirect" }
+    {
+      "sourceUrl": "https://www.neurodata-master.org/",
+      "targetPath": "/",
+      "title": "NeuroData | Graduate School in Brain and Data Science",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/about",
+      "targetPath": "/about",
+      "title": "NeuroData | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/programme",
+      "targetPath": "/programme",
+      "title": "NeuroData | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/the-partners",
+      "targetPath": "/the-partners",
+      "title": "The Partners | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/the-people",
+      "targetPath": "/the-people",
+      "title": "The People | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/programme-costs",
+      "targetPath": "/programme-costs",
+      "title": "NeuroData | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/application-requirments",
+      "targetPath": "/application-requirments",
+      "title": "Application Requirements | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated (original Wix slug spelling kept intentionally)"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/selection-process",
+      "targetPath": "/selection-process",
+      "title": "Selection Process | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/online-application",
+      "targetPath": "/online-application",
+      "title": "Online Application | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated; Online Application button links to external registration system at admin.neurodata-master.org (not migrated, per requirements)"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/contact",
+      "targetPath": "/contact",
+      "title": "Contact | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/faq",
+      "targetPath": "/faq",
+      "title": "Faq | Graduate School",
+      "language": "en",
+      "priority": "high",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/general-8",
+      "targetPath": "/general-8",
+      "title": "Alumni | NeuroData",
+      "language": "en",
+      "priority": "medium",
+      "status": "migrated"
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/blank-1",
+      "targetPath": "/blank-1",
+      "title": "Gallery | NeuroData",
+      "language": "en",
+      "priority": "low",
+      "status": "migrated; rebuilt from Wix page model (photo grid from gallery_images_manual/ + 13 YouTube videos in 3 sections). Wix server had been 301-redirecting this slug to /about."
+    }
   ],
   "excluded": [
-    { "sourceUrl": "https://admin.neurodata-master.org/user/create_applicant", "reason": "External registration system on another server; linked from the Online Application button only, per migration requirements." },
-    { "sourceUrl": "https://www.neurodata-master.org/event-details-registration/*", "reason": "Past Wix Events pages (dynamic Wix Events app). Home page shows 'No events at the moment'; static equivalent keeps the events strip as text." }
+    {
+      "sourceUrl": "https://admin.neurodata-master.org/user/create_applicant",
+      "reason": "External registration system on another server; linked from the Online Application button only, per migration requirements."
+    },
+    {
+      "sourceUrl": "https://www.neurodata-master.org/event-details-registration/*",
+      "reason": "Past Wix Events pages (dynamic Wix Events app). Home page shows 'No events at the moment'; static equivalent keeps the events strip as text."
+    }
   ]
 }
