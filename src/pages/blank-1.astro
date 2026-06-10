@@ -1,0 +1,119 @@
+---
+import Base from '../layouts/Base.astro';
+import { Image } from 'astro:assets';
+
+// Photo grid: drop images into gallery_images_manual/ at the repo root and
+// rebuild — they appear automatically (sorted by filename).
+// To hide an image without deleting the file, add its filename here:
+const excluded: string[] = [];
+
+const modules = import.meta.glob<{ default: ImageMetadata }>(
+  '/gallery_images_manual/*.{jpg,JPG,jpeg,JPEG,png,PNG,webp}',
+  { eager: true }
+);
+const photos = Object.entries(modules)
+  .map(([path, mod]) => ({ name: path.split('/').pop() ?? '', img: mod.default }))
+  .filter((p) => !excluded.includes(p.name))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+// Video sections extracted from the original Wix Gallery page (in original order)
+const sections = [
+  {
+    heading: 'Bar-Ilan Campus',
+    videos: [
+      { id: '-UrnJtzLSwM', title: 'A short walk through Bar-Ilan University Campus' },
+      { id: 'culZQUBn9lU', title: 'Bar-Ilan Campus video' },
+      { id: 'TDAh9hJ7jNw', title: 'Bar-Ilan Campus video' },
+      { id: 'WzXXjV54zZo', title: 'Bar-Ilan Campus video' },
+    ],
+  },
+  {
+    heading: 'Neuroscience in Hebrew',
+    videos: [
+      { id: 'sC2nr0M8OO0', title: 'Neuroscience in Hebrew video' },
+      { id: 'IQ5x2I-2O8Q', title: 'Neuroscience in Hebrew video' },
+      { id: 'Mo6Zc0g5ick', title: 'Neuroscience in Hebrew video' },
+      { id: 'LYOGZ6QYyaY', title: 'Neuroscience in Hebrew video' },
+    ],
+  },
+  {
+    heading: 'Testimonials',
+    videos: [
+      { id: 'Cd23BNqnef0', title: 'Student testimonial' },
+      { id: 'QeHuJDuGClY', title: 'Student testimonial' },
+      { id: 'iP7nMFbMLt0', title: 'Student testimonial' },
+      { id: 'PRSk6NekQ9g', title: 'Student testimonial' },
+      { id: 'oO23xRV8538', title: 'Student testimonial' },
+    ],
+  },
+];
+
+const altFromName = (name: string) =>
+  name.replace(/\.[^.]+$/, '').replace(/[_-]+/g, ' ');
+---
+
+<Base title="Gallery | NeuroData" currentPath="/blank-1">
+  <section class="page-section">
+    <div class="container">
+      <h1 class="page-title">Gallery</h1>
+
+      <div class="photo-grid">
+        {photos.map((p) => (
+          <a href={p.img.src} target="_blank" rel="noopener">
+            <Image src={p.img} alt={altFromName(p.name)} width={800} loading="lazy" />
+          </a>
+        ))}
+      </div>
+
+      {sections.map((s) => (
+        <section class="video-section">
+          <h2>{s.heading}</h2>
+          <div class="video-grid">
+            {s.videos.map((v) => (
+              <div class="video-embed">
+                <iframe
+                  src={`https://www.youtube-nocookie.com/embed/${v.id}`}
+                  title={v.title}
+                  loading="lazy"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
+              </div>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+    margin-bottom: 3.5rem;
+  }
+  .photo-grid a { display: block; aspect-ratio: 4 / 3; overflow: hidden; }
+  .photo-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.25s ease;
+  }
+  .photo-grid a:hover img { transform: scale(1.04); }
+
+  .video-section { margin: 3rem 0; }
+  .video-section h2 {
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 18px;
+  }
+  .video-grid .video-embed { margin: 0; max-width: none; }
+</style>

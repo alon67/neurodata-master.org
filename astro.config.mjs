@@ -5,8 +5,4 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://www.neurodata-master.org',
   integrations: [sitemap()],
-  redirects: {
-    // Wix "Gallery" menu slug redirects to About, same as on the Wix site
-    '/blank-1': '/about',
-  },
 });
