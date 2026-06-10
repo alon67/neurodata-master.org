@@ -3,3 +3,6 @@ dist/
 .astro/
 .DS_Store
 *.log
+
+# extraction archive stays local (audit originals); not published
+extracted/
