@@ -26,17 +26,18 @@ npm run validate:links   # checks every internal link/image/file in dist/
 | The People (cards: photo, role, bio) | `src/pages/the-people.astro` (edit the `people` array) |
 | The Partners | `src/pages/the-partners.astro` |
 | Online Application (incl. countdown date) | `src/pages/online-application.astro` (`applicationOpens` constant) |
-| Gallery photos | `gallery_images_manual/` — add/remove image files and rebuild; hide one without deleting via the `excluded` list in `src/pages/blank-1.astro` |
-| Gallery videos (three sections) | `src/pages/blank-1.astro` (`sections` array of YouTube IDs) |
+| Gallery photos | `gallery_images_manual/` — add/remove image files and rebuild; hide one without deleting via the `excluded` list in `src/pages/gallery.astro` |
+| Gallery videos (three sections) | `src/pages/gallery.astro` (`sections` array of YouTube IDs) |
 | Header, navigation menu, footer | `src/layouts/Base.astro` |
 | Colors, fonts, spacing | `src/styles/global.css` |
 | Images | `public/images/` |
 | PDFs | `public/files/` (linked as `/files/<name>.pdf`) |
 
-Pages keep the original Wix URLs (including the original `/application-requirments` spelling, the
-`/general-8` Alumni slug, and `/blank-1` for the Gallery) so existing links and search results keep
-working. Note: the Wix server had been 301-redirecting `/blank-1` to `/about`, so the gallery was
-rebuilt from the Wix page model (video sections) plus manually supplied photos in `gallery_images_manual/`.
+Pages keep the original Wix URLs (including the original `/application-requirments` spelling) so
+existing links and search results keep working. The Gallery and Alumni pages were moved to clean
+URLs (`/gallery` and `/alumni`); the old slugs `/blank-1` and `/general-8` redirect automatically.
+Note: the Wix server had been 301-redirecting `/blank-1` to `/about`, so the gallery was rebuilt
+from the Wix page model (video sections) plus manually supplied photos in `gallery_images_manual/`.
 
 ## Notable migration decisions
 

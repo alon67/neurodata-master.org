@@ -5,4 +5,8 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://www.neurodata-master.org',
   integrations: [sitemap()],
+  redirects: {
+    '/blank-1': '/gallery',
+    '/general-8': '/alumni',
+  },
 });

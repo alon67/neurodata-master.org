@@ -92,7 +92,7 @@
     },
     {
       "sourceUrl": "https://www.neurodata-master.org/general-8",
-      "targetPath": "/general-8",
+      "targetPath": "/alumni",
       "title": "Alumni | NeuroData",
       "language": "en",
       "priority": "medium",
@@ -100,7 +100,7 @@
     },
     {
       "sourceUrl": "https://www.neurodata-master.org/blank-1",
-      "targetPath": "/blank-1",
+      "targetPath": "/gallery",
       "title": "Gallery | NeuroData",
       "language": "en",
       "priority": "low",
