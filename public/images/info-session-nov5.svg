@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="NeuroData Online Info Session, November 5th at 16:00 Tel Aviv time">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b0d"/>
+      <stop offset="1" stop-color="#1c1c22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="35%" r="55%">
+      <stop offset="0" stop-color="#fefc8f" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#fefc8f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="520" fill="url(#bg)"/>
+  <rect width="1200" height="520" fill="url(#glow)"/>
+
+  <!-- Neural / data motif -->
+  <g stroke="#fefc8f" stroke-opacity="0.55" stroke-width="2" fill="none">
+    <path d="M870 120 L960 190 L915 300 L1010 360"/>
+    <path d="M960 190 L1065 160 L1110 270"/>
+    <path d="M915 300 L835 380 L930 430"/>
+    <path d="M1065 160 L1120 90"/>
+  </g>
+  <g fill="#fefc8f">
+    <circle cx="870" cy="120" r="7"/>
+    <circle cx="960" cy="190" r="9"/>
+    <circle cx="915" cy="300" r="7"/>
+    <circle cx="1010" cy="360" r="8"/>
+    <circle cx="1065" cy="160" r="7"/>
+    <circle cx="1110" cy="270" r="6"/>
+    <circle cx="835" cy="380" r="6"/>
+    <circle cx="930" cy="430" r="7"/>
+    <circle cx="1120" cy="90" r="5"/>
+  </g>
+
+  <!-- Date badge -->
+  <g transform="translate(90,150)">
+    <rect x="0" y="0" width="200" height="220" rx="16" fill="#fefc8f"/>
+    <text x="100" y="60" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="4" fill="#0b0b0d">NOV</text>
+    <text x="100" y="158" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="120" font-weight="800" fill="#0b0b0d">5</text>
+    <text x="100" y="198" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2" fill="#0b0b0d">2026</text>
+  </g>
+
+  <!-- Text block -->
+  <g font-family="Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="330" y="190" font-size="30" font-weight="600" letter-spacing="6" fill="#fefc8f">NEURODATA</text>
+    <text x="330" y="270" font-size="72" font-weight="800">Online Info</text>
+    <text x="330" y="348" font-size="72" font-weight="800">Session</text>
+    <text x="330" y="410" font-size="30" font-weight="400" fill="#dddddd">16:00 Tel Aviv time &#183; Join us online</text>
+  </g>
+</svg>
