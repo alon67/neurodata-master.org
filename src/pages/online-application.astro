@@ -1,9 +1,5 @@
 ---
 import Base from '../layouts/Base.astro';
-
-// Date shown by the countdown — when the next application round opens.
-// Edit this value when the next call is announced.
-const applicationOpens = '2026-11-15T00:00:00Z';
 ---
 
 <Base title="Online Application | Graduate School" currentPath="/online-application">
@@ -47,28 +43,7 @@ const applicationOpens = '2026-11-15T00:00:00Z';
         <a class="button" href="https://admin.neurodata-master.org/user/create_applicant">Online Application</a>
       </div>
 
-      <h6 class="centered">The application is closed. It will open in:</h6>
-      <p class="centered" id="countdown" data-opens={applicationOpens}></p>
+      <h6 class="centered">The application is now open. Submit your application by February 5th 2027.</h6>
     </div>
   </section>
-
-  <script>
-    const el = document.getElementById('countdown');
-    const target = new Date(el?.dataset.opens || '').getTime();
-    const tick = () => {
-      if (!el || Number.isNaN(target)) return;
-      const diff = target - Date.now();
-      if (diff <= 0) {
-        el.textContent = 'The application is open!';
-        return;
-      }
-      const d = Math.floor(diff / 86400000);
-      const h = Math.floor((diff % 86400000) / 3600000);
-      const m = Math.floor((diff % 3600000) / 60000);
-      const s = Math.floor((diff % 60000) / 1000);
-      el.textContent = `${d} days, ${h} hours, ${m} minutes, ${s} seconds`;
-      setTimeout(tick, 1000);
-    };
-    tick();
-  </script>
 </Base>
